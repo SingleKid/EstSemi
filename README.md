@@ -1,7 +1,7 @@
 # EstSemi
 The seminar project of course 629: estimation with colored noise
 
-#This project is created to:
+# This project is created to:
 ## 1. evaluate the result of kalman filtering with colored noise and white noise.
 ## 2. evaluate the improvement of colored noise kalman filtering.
 ## 3. test the performance of them with different parameters.
